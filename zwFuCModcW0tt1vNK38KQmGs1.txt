@@ -264,4 +264,3 @@ check.office365-update.com
 zimbra-beta.info
 zimbra.life
 microsi0ft.com
-t.me
