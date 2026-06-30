@@ -232,3 +232,6 @@ gamewss.cloudapi.stream
 chat.cloudapi.stream
 crm.cloudapi.stream
 metal.cloudapi.stream
+vpn-proton-setup.com
+get-proton-vpn.com
+newworld-helloworld.icu
