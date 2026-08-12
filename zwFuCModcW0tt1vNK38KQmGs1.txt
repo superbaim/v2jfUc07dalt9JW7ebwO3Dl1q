@@ -285,3 +285,6 @@ redline-c2-node.info
 system-update-check.online
 auth-gate-service.net
 telemetry-redline.store
+topcreativeformat.com
+cccp.ooguy.com
+www.hostingcloud.racing
