@@ -301,3 +301,4 @@ protectmyapp.com
 dnslog.cn
 google.chromeupgrades.com
 speedtest.qqmail.website
+api.sigmative.io
